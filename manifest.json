@@ -1,0 +1,28 @@
+{
+  "name": "you matter!",
+  "version": "1.0",
+  "manifest_version": 2,
+
+
+  "description": "promoting positivity even in an online setting!",
+  
+  "icons": {
+    "128": "you.png"
+  },
+
+  "browser_action": {
+    "default_title": "spread positivity!",
+    "default_popup": "popup.html"
+  },
+
+
+  "permissions": [
+    "http://*/*", "https://*/*"
+  ]
+}
+  
+  
+
+ 
+  
+  
